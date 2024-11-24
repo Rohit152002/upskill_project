@@ -5,5 +5,8 @@
     "fs": "^0.0.1-security",
     "rate-limit-redis": "^4.2.0",
     "redis": "^4.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
