@@ -1,0 +1,752 @@
+[
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "type": "Success"
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "type": "Success"
+  },
+  {
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "type": "Success"
+  },
+  {
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "type": "Success"
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "type": "Success"
+  },
+  {
+    "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+    "author": "Conrad Hilton",
+    "type": "Success"
+  },
+  {
+    "quote": "If you really look closely, most overnight successes took a long time.",
+    "author": "Steve Jobs",
+    "type": "Success"
+  },
+  {
+    "quote": "The secret of success is to do the common thing uncommonly well.",
+    "author": "John D. Rockefeller",
+    "type": "Success"
+  },
+  {
+    "quote": "I never dreamed about success. I worked for it.",
+    "author": "Estée Lauder",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "author": "Roy T. Bennett",
+    "type": "Success"
+  },
+  {
+    "quote": "Try not to become a man of success. Rather become a man of value.",
+    "author": "Albert Einstein",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "author": "Maya Angelou",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is where preparation and opportunity meet.",
+    "author": "Bobby Unser",
+    "type": "Success"
+  },
+  {
+    "quote": "To succeed in life, you need two things: ignorance and confidence.",
+    "author": "Mark Twain",
+    "type": "Success"
+  },
+  {
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is a journey, not a destination.",
+    "author": "Arthur Ashe",
+    "type": "Success"
+  },
+  {
+    "quote": "Some people dream of success, while other people get up every morning and make it happen.",
+    "author": "Wayne Huizenga",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not about being the best. It's about always getting better.",
+    "author": "Behdad Sami",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is most often achieved by those who don't know that failure is inevitable.",
+    "author": "Coco Chanel",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "author": "Joyce Brothers",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is achieved and maintained by those who try and keep trying.",
+    "author": "W. Clement Stone",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is about creating value, not just money.",
+    "author": "Hitesh Raval",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is when preparation meets opportunity.",
+    "author": "Zig Ziglar",
+    "type": "Success"
+  },
+  {
+    "quote": "Success means doing the best we can with what we have.",
+    "author": "Zig Ziglar",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.",
+    "author": "Colin Powell",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not the absence of failure; it's the persistence through failure.",
+    "author": "Aisha Tyler",
+    "type": "Success"
+  },
+  {
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not what you have, but who you are.",
+    "author": "Bo Bennett",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is finding satisfaction in giving a little more than you take.",
+    "author": "Christopher Reeve",
+    "type": "Success"
+  },
+  {
+    "quote": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+    "author": "Confucius",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is simple. Do what's right, the right way, at the right time.",
+    "author": "Arnold H. Glasow",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is getting what you want, happiness is wanting what you get.",
+    "author": "W.P. Kinsella",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is achieved by ordinary people with extraordinary determination.",
+    "author": "Zig Ziglar",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+    "author": "Booker T. Washington",
+    "type": "Success"
+  },
+  {
+    "quote": "Success comes from knowing that you did your best to become the best that you are capable of becoming.",
+    "author": "John Wooden",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is never accidental.",
+    "author": "Jack Dorsey",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.",
+    "author": "Pele",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is about doing what you love and being happy doing it.",
+    "author": "Unknown",
+    "type": "Success"
+  },
+  {
+    "quote": "Success does not consist in never making mistakes but in never making the same one a second time.",
+    "author": "George Bernard Shaw",
+    "type": "Success"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not just about what you accomplish in your life; it’s about what you inspire others to do.",
+    "author": "Unknown",
+    "type": "Success"
+  },
+  {
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is how high you bounce when you hit bottom.",
+    "author": "George S. Patton",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not the key to happiness. Happiness is the key to success.",
+    "author": "Albert Schweitzer",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is when preparation meets opportunity.",
+    "author": "Bobby Unser",
+    "type": "Success"
+  },
+  {
+    "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "author": "Maya Angelou",
+    "type": "Success"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the memory of success.",
+    "author": "David Storey",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The more you believe in yourself, the more the world believes in you.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "With realization of one’s own potential and self-confidence in one’s ability, one can build a better world.",
+    "author": "Dalai Lama",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence comes not from always being right, but from not fearing to be wrong.",
+    "author": "Peter T. McIntyre",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Don’t wait until everything is just right. It will never be perfect. There will always be challenges, obstacles, and less than perfect conditions. So what? Get started now.",
+    "author": "Mark Victor Hansen",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "You have been criticizing yourself for years, and it hasn’t worked. Try approving of yourself and see what happens.",
+    "author": "Louise L. Hay",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "author": "Buddha",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Don’t be satisfied with stories, how things have gone with others. Unfold your own myth.",
+    "author": "Rumi",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Your success will be determined by your own confidence and fortitude.",
+    "author": "Michelle Obama",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The most beautiful thing you can wear is confidence.",
+    "author": "Blake Lively",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the first requisite to great undertakings.",
+    "author": "Samuel Johnson",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Don’t doubt your value. Don’t run from who you are.",
+    "author": "Aslan (C.S. Lewis)",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Trust yourself. You know more than you think you do.",
+    "author": "Benjamin Spock",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence is contagious. So is lack of confidence.",
+    "author": "Vince Lombardi",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Successful people have fear, successful people have doubts, and successful people have worries. They just don’t let these feelings stop them.",
+    "author": "T. Harv Eker",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Christian D. Larson",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence comes from hours and days and weeks and years of constant work and dedication.",
+    "author": "Roger Staubach",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "You have to expect things of yourself before you can do them.",
+    "author": "Michael Jordan",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "It is confidence in our bodies, minds, and spirits that allows us to keep looking for new adventures.",
+    "author": "Oprah Winfrey",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The man who has confidence in himself gains the confidence of others.",
+    "author": "Hasidic Proverb",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence is directness and courage in meeting the facts of life.",
+    "author": "John Dewey",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence is not ‘they will like me.’ Confidence is ‘I’ll be fine if they don’t.’",
+    "author": "Christina Grimmie",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    "author": "Helen Keller",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the foundation of all great success and achievement.",
+    "author": "Brian Tracy",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence comes from discipline and training.",
+    "author": "Robert Kiyosaki",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence is the most beautiful thing you can possess.",
+    "author": "Sabrina Carpenter",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Don’t let others drag you down. Keep your head up high and believe in yourself.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "With confidence, you have won before you have started.",
+    "author": "Marcus Garvey",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
+    "author": "J.M. Barrie",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "It’s not who you are that holds you back, it’s who you think you’re not.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "If you hear a voice within you say ‘you cannot paint,’ then by all means paint and that voice will be silenced.",
+    "author": "Vincent Van Gogh",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Low self-esteem is like driving through life with your hand-break on.",
+    "author": "Maxwell Maltz",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The best way to gain self-confidence is to do what you are afraid to do.",
+    "author": "Swati Sharma",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The more self-confidence you have, the more likely you are to succeed.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Don’t be afraid to be yourself.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the best outfit, rock it and own it.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence isn’t about walking into a room thinking you’re better than everyone, it’s walking in and not having to compare yourself to anyone at all.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Confidence is the ability to feel beautiful without needing someone to tell you.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The greatest mistake you can make in life is continually fearing that you’ll make one.",
+    "author": "Elbert Hubbard",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the best revenge.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "It is not the mountain we conquer, but ourselves.",
+    "author": "Sir Edmund Hillary",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Action is a great restorer and builder of confidence. Inaction is not only the result, but the cause, of fear.",
+    "author": "Norman Vincent Peale",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Your life is as good as your self-confidence.",
+    "author": "Lailah Gifty Akita",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Be so confident in who you are that no one’s opinion, rejection, or behavior can rock you.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "You alone are enough. You have nothing to prove to anybody.",
+    "author": "Maya Angelou",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "Self-confidence is the key to unlocking your potential and achieving your dreams.",
+    "author": "Unknown",
+    "type": "Self-confidence"
+  },
+  {
+    "quote": "The best way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "type": "inspirational"
+  },
+  {
+    "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "author": "Winston Churchill",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "type": "inspirational"
+  },
+  {
+    "quote": "You learn more from failure than from success. Don’t let it stop you. Failure builds character.",
+    "author": "Unknown",
+    "type": "inspirational"
+  },
+  {
+    "quote": "It’s not whether you get knocked down, it’s whether you get up.",
+    "author": "Vince Lombardi",
+    "type": "inspirational"
+  },
+  {
+    "quote": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.",
+    "author": "Steve Jobs",
+    "type": "inspirational"
+  },
+  {
+    "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+    "author": "Rob Siltanen",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Entrepreneurs are great at dealing with uncertainty and also very good at minimizing risk. That’s the classic entrepreneur.",
+    "author": "Mohnish Pabrai",
+    "type": "inspirational"
+  },
+  {
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "author": "Maya Angelou",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+    "author": "Johann Wolfgang von Goethe",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Imagine your life is perfect in every respect; what would it look like?",
+    "author": "Brian Tracy",
+    "type": "inspirational"
+  },
+  {
+    "quote": "We generate fears while we sit. We overcome them by action.",
+    "author": "Dr. Henry Link",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Whether you think you can or think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Security is mostly a superstition. Life is either a daring adventure or nothing.",
+    "author": "Helen Keller",
+    "type": "inspirational"
+  },
+  {
+    "quote": "The man who has confidence in himself gains the confidence of others.",
+    "author": "Hasidic Proverb",
+    "type": "inspirational"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein",
+    "type": "inspirational"
+  },
+  {
+    "quote": "What you lack in talent can be made up with desire, hustle and giving 110% all the time.",
+    "author": "Don Zimmer",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Do what you can with all you have, wherever you are.",
+    "author": "Theodore Roosevelt",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Develop an ‘attitude of gratitude’. Say thank you to everyone you meet for everything they do for you.",
+    "author": "Brian Tracy",
+    "type": "inspirational"
+  },
+  {
+    "quote": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "type": "inspirational"
+  },
+  {
+    "quote": "To see what is right and not do it is a lack of courage.",
+    "author": "Confucius",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Reading is to the mind, as exercise is to the body.",
+    "author": "Brian Tracy",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Fake it until you make it! Act as if you had all the confidence you require until it becomes your reality.",
+    "author": "Brian Tracy",
+    "type": "inspirational"
+  },
+  {
+    "quote": "The future belongs to the competent. Get good, get better, be the best!",
+    "author": "Brian Tracy",
+    "type": "inspirational"
+  },
+  {
+    "quote": "For every reason it’s not possible, there are hundreds of people who have faced the same circumstances and succeeded.",
+    "author": "Jack Canfield",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden",
+    "type": "inspirational"
+  },
+  {
+    "quote": "A room without books is like a body without a soul.",
+    "author": "Marcus Tullius Cicero",
+    "type": "inspirational"
+  },
+  {
+    "quote": "I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.",
+    "author": "Michael Phelps",
+    "type": "inspirational"
+  },
+  {
+    "quote": "One of the lessons that I grew up with was to always stay true to yourself and never let what somebody else says distract you from your goals.",
+    "author": "Michelle Obama",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Today’s accomplishments were yesterday’s impossibilities.",
+    "author": "Robert H. Schuller",
+    "type": "inspirational"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "type": "inspirational"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "type": "inspirational"
+  },
+  {
+    "quote": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela",
+    "type": "inspirational"
+  },
+  {
+    "quote": "If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success.",
+    "author": "James Cameron",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Don’t be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Don’t wait for the right opportunity: create it.",
+    "author": "George Bernard Shaw",
+    "type": "inspirational"
+  },
+  {
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "type": "inspirational"
+  },
+  {
+    "quote": "It is our choices, that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+    "author": "William Butler Yeats",
+    "type": "inspirational"
+  },
+  {
+    "quote": "When we strive to become better than we are, everything around us becomes better too.",
+    "author": "Paulo Coelho",
+    "type": "inspirational"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "type": "inspirational"
+  }
+]
